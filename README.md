@@ -3,11 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=facele55&label=Profile%20views&color=0e75b6&style=flat" alt="facele55" /> </p>
 
-
-- 📫 How to reach me: **[email](mailto:an-b@ukr.net)**
-
-- 📄 Know about my experiences in my [CV](https://drive.google.com/file/d/1IHzp1sVl9Aj6yrslw1fGRyFyFtxlMtyF/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/andrii-buzov-3b70b5b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrii-buzov-3b70b5b5" height="30" width="40" /></a>
